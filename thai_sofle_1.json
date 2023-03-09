@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "documentation": "This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\n",
+  "notes": "",
+  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "sofle/rev1",
   "keymap": "thai_sofle_1",
   "layout": "LAYOUT",
@@ -90,8 +91,8 @@
       "KC_RCBR",
       "KC_LBRC",
       "KC_RBRC",
-      "KC_NO",
       "KC_F12",
+      "KC_DEL",
       "KC_LSFT",
       "KC_NO",
       "KC_NO",
@@ -99,8 +100,8 @@
       "KC_NO",
       "KC_NO",
       "KC_LEFT",
-      "KC_UP",
       "KC_DOWN",
+      "KC_UP",
       "KC_RGHT",
       "KC_NO",
       "KC_NO",
@@ -316,6 +317,5 @@
       "KC_TRNS"
     ]
   ],
-  "author": "",
-  "notes": ""
+  "author": ""
 }
