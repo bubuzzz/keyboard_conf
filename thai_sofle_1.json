@@ -98,7 +98,7 @@
       "KC_P4",
       "KC_P5",
       "KC_P6",
-      "KC_NO",
+      "KC_PEQL",
       "KC_LEFT",
       "KC_DOWN",
       "KC_UP",
@@ -125,7 +125,7 @@
       "KC_LGUI",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "KC_RGUI",
       "KC_NO",
       "KC_NO",
       "KC_NO"
